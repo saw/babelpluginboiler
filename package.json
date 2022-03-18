@@ -1,0 +1,26 @@
+{
+  "name": "bplug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.7",
+    "@babel/preset-typescript": "^7.16.7",
+    "@babel/traverse": "^7.17.3",
+    "@babel/types": "^7.17.0",
+    "@types/jest": "^27.4.1",
+    "babel-plugin-tester": "^10.1.0",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3"
+  }
+}
