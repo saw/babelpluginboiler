@@ -1,8 +1,9 @@
 class Woo {
     woo = 'hi';
-    DoStuff():string {
+    DoStuff(): string {
         return '$woo';
     }
 }
+
 
 export { Woo };
